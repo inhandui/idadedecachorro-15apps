@@ -3,8 +3,15 @@ package com.cursoandroid.idadedecachorro;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
+
+    private EditText txt_idade;
+    private Button btn_descobrirIdade;
+    private TextView txt_resultadoIdade;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
