@@ -19,5 +19,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         txt_idade = findViewById(R.id.txt_idade);
+        btn_descobrirIdade = findViewById(R.id.btn_descobrirIdade);
     }
 }
