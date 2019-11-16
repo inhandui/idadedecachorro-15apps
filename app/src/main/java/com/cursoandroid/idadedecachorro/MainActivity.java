@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
                     valorDeEntrada = Integer.parseInt(entradaUsuario);
                     resultado = valorDeEntrada * 7;
 
-                    txt_resultadoIdade.setText(getString(R.string.resultado) + " " + resultado + " " + getString(R.string.anos));
+                    txt_resultadoIdade.setText(getString(R.string.resultado) + " " + resultado);
 
                 }
                 else {
