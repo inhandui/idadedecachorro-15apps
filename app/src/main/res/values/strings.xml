@@ -2,4 +2,6 @@
     <string name="app_name">Idade de Cachorro</string>
     <string name="mensagem">Digite a idade do seu cachorro para descobrir a idade dele em anos de humanos</string>
     <string name="descobrir_idade">Descobrir Idade</string>
+    <string name="resultado">A idade do cachorro em anos humanos é: </string>
+    <string name="erro">Por favor! Digite um número para o cálculo</string>
 </resources>
